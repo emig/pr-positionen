@@ -7,7 +7,7 @@ while true;
     select prep in $(cat verb.txt | sed '/^$/d' | cut -f2 | uniq);
     do
       solution="$(cat < verb.txt | egrep "^$challenge" | cut -f2)"
-      if [[ $prep = $solution ]]; then
+      if [[ $solution == *$prep* ]]; then
         echo 'ya!'
       else
         echo "nein! $solution != $prep"

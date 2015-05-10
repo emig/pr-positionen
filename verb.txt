@@ -16,6 +16,7 @@ sprechen	mit
 reden	mit
 telefonieren	mit
 streiten sich	mit
+unterhalten sich	mit
 beschäftigen sich	mit
 
 danken	für
@@ -25,12 +26,12 @@ entschuldigen sich	für
 
 sprechen	über
 reden	über
-unterhalten	über
+unterhalten sich	über
 berichten	über
 freuen	über
 beschweren	über
 ärgern	über
-streiten	über
+streiten sich	über
 
 fragen	nach
 suchen	nach
