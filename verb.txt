@@ -1,0 +1,50 @@
+anrufen	bei
+arbeiten	bei
+entschuldigen	bei
+bedanken	bei
+
+teilnehmen	an
+erinnern sich	an
+denken	an
+
+warten	auf
+freuen	auf
+verzichten	auf
+achten	auf
+
+sprechen	mit
+reden	mit
+telefonieren	mit
+streiten sich	mit
+beschäftigen sich	mit
+
+danken	für
+bedanken sich	für
+interessieren sich	für
+entschuldigen sich	für
+
+sprechen	über
+reden	über
+unterhalten	über
+berichten	über
+freuen	über
+beschweren	über
+ärgern	über
+streiten	über
+
+fragen	nach
+suchen	nach
+erkundigen	nach
+
+gratulieren	zu
+zählen	zu
+gehören	zu
+
+gehen	um
+bewerben sich	um
+steigen/sinken	um
+
+fürchten	vor
+
+träumen	von
+leben	von
