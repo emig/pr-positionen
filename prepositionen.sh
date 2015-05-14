@@ -11,10 +11,12 @@ while true;
     select prep in $(cat verb.txt | sed '/^$/d' | cut -f2 | uniq);
     do
       solution="$(cat < verb.txt | egrep "^$challenge" | cut -f2)"
+      sentence="$(cat < verb.txt | egrep "^$challenge" | cut -f3)"
       if [[ $solution == *$prep* ]]; then
-        echo -e "${GREEN}ya!${NC}"
+        echo -e "${GREEN}ya!${NC}" \
+          "\n${YELLOW}$sentence${NC}"
+
       else
-        sentence="$(cat < verb.txt | egrep "^$challenge" | cut -f3)"
         echo -e "${RED}nein!${NC} ${GREEN}$solution${NC} != ${RED}$prep${NC}" \
           "\n${YELLOW}$sentence${NC}"
       fi

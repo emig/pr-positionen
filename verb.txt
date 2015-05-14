@@ -15,19 +15,19 @@ achten	auf	auf Fehler achten
 sprechen	mit	mit einem Kollegen sprechen
 reden	mit	mit dem Chef reden
 telefonieren	mit	mit der Sekretärin telefonieren
-streiten sich	mit	sich miet einem Freund streiten
-unterhalten sich	mit
+streiten sich	mit	sich mit einem Freund streiten
+unterhalten sich	mit	mit einem Freund sich unterhalten
 beschäftigen sich	mit	sich mit einem Problem beschäftigen
 
 danken	für	für die Blumen danken
-bedanken sich	für	sich für das Gechenk bedanken
+bedanken sich	für	sich für das Geschenk bedanken
 interessieren sich	für	sich für Kunst interessieren
 entschuldigen sich	für	sich für die Verspätung entschuldigen
 
 sprechen	über	über die Gehaltserhöhung sprechen
 reden	über	über ein Problem reden
 unterhalten sich	über	sich über das Wetter unterhalten
-berichten	über	über einnnn Projet berichten
+berichten	über	über ein Projekt berichten
 freuen	über	sich über den Erfolg freuen
 beschweren	über	sich über die Qualität beschweren
 ärgern	über	sich über die Verspätung ärgern
@@ -43,9 +43,9 @@ gehören	zu	zu den besten Künstlern gehören
 
 gehen	um	es geht um die neuen Produkte
 bewerben sich	um	sich um eine Stelle bewerben
-steigen/sinken	um	um zehn Prozen steigen/sinken
+steigen/sinken	um	um zehn Protzen steigen/sinken
 
 fürchten	vor	sich vor Spinnen fürchten
 
 träumen	von	von einem Lottogewinn träumen
-leben	von	vin wenig Geld leben
+leben	von	von wenig Geld leben
