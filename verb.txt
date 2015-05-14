@@ -1,51 +1,51 @@
-anrufen	bei
-arbeiten	bei
-entschuldigen	bei
-bedanken	bei
+anrufen	bei	bei einem Kunden anrufen
+arbeiten	bei	bei Siemens Arbeiten
+entschuldigen	bei	sich bei einem Kollegen entschuldigen
+bedanken	bei	sich bei einem Freund bedanken
 
-teilnehmen	an
-erinnern sich	an
-denken	an
+teilnehmen	an	an einer Besprechung teilnehmen
+erinnern sich	an	sich an die Schulzeit erinnern
+denken	an	an die Hausafgaben denken
 
-warten	auf
-freuen	auf
-verzichten	auf
-achten	auf
+warten	auf	auf den Bus warten
+freuen	auf	sich auf den Urlaub freuen
+verzichten	auf	auf das Geld verzichten
+achten	auf	auf Fehler achten
 
-sprechen	mit
-reden	mit
-telefonieren	mit
-streiten sich	mit
+sprechen	mit	mit einem Kollegen sprechen
+reden	mit	mit dem Chef reden
+telefonieren	mit	mit der Sekretärin telefonieren
+streiten sich	mit	sich miet einem Freund streiten
 unterhalten sich	mit
-beschäftigen sich	mit
+beschäftigen sich	mit	sich mit einem Problem beschäftigen
 
-danken	für
-bedanken sich	für
-interessieren sich	für
-entschuldigen sich	für
+danken	für	für die Blumen danken
+bedanken sich	für	sich für das Gechenk bedanken
+interessieren sich	für	sich für Kunst interessieren
+entschuldigen sich	für	sich für die Verspätung entschuldigen
 
-sprechen	über
-reden	über
-unterhalten sich	über
-berichten	über
-freuen	über
-beschweren	über
-ärgern	über
-streiten sich	über
+sprechen	über	über die Gehaltserhöhung sprechen
+reden	über	über ein Problem reden
+unterhalten sich	über	sich über das Wetter unterhalten
+berichten	über	über einnnn Projet berichten
+freuen	über	sich über den Erfolg freuen
+beschweren	über	sich über die Qualität beschweren
+ärgern	über	sich über die Verspätung ärgern
+streiten sich	über	sich über ein Thema streiten
 
-fragen	nach
-suchen	nach
-erkundigen	nach
+fragen	nach	nach dem Weg fragen
+suchen	nach	nach einer Lösung suchen
+erkundigen	nach	sich nach dem Preis erkundigen
 
-gratulieren	zu
-zählen	zu
-gehören	zu
+gratulieren	zu	zu Geburtstag gratulieren
+zählen	zu	zu den bedeutendsten Museen zählen
+gehören	zu	zu den besten Künstlern gehören
 
-gehen	um
-bewerben sich	um
-steigen/sinken	um
+gehen	um	es geht um die neuen Produkte
+bewerben sich	um	sich um eine Stelle bewerben
+steigen/sinken	um	um zehn Prozen steigen/sinken
 
-fürchten	vor
+fürchten	vor	sich vor Spinnen fürchten
 
-träumen	von
-leben	von
+träumen	von	von einem Lottogewinn träumen
+leben	von	vin wenig Geld leben

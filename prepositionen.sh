@@ -2,6 +2,7 @@
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
+YELLOW='\033[0;34m'
 NC='\033[0m' # No Color
 while true;
   do
@@ -13,7 +14,9 @@ while true;
       if [[ $solution == *$prep* ]]; then
         echo -e "${GREEN}ya!${NC}"
       else
-        echo -e "${RED}nein!${NC} ${GREEN}$solution${NC} != ${RED}$prep${NC}"
+        sentence="$(cat < verb.txt | egrep "^$challenge" | cut -f3)"
+        echo -e "${RED}nein!${NC} ${GREEN}$solution${NC} != ${RED}$prep${NC}" \
+          "\n${YELLOW}$sentence${NC}"
       fi
       break
     done
